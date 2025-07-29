@@ -1,7 +1,7 @@
 ## Hi , I'm Akash 👋
-Computer Science graduate (B.Tech CSE, 2024) exploring web development and software engineering. I enjoy building small projects using React, JavaScript, Python, and SQL.
+🎓Computer Science graduate (B.Tech CSE, 2024) 💻exploring web development and software engineering. I enjoy building small projects using React, JavaScript, Python, and SQL.
 Currently upskilling and open to internships or entry-level roles in tech.
-Reach me at: akashgjk123@gmail.com
+📬 Reach me at: akashgjk123@gmail.com
 <!--
 **its-me-akash-here/its-me-akash-here** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
